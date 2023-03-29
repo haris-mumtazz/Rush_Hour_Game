@@ -1,0 +1,1 @@
+To run this project you have to use Ubuntu(linux) with g++ compiler
